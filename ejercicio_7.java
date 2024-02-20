@@ -1,4 +1,8 @@
 // package ejercicio_7;
+/*  Lopez Galicia Luis Angel
+    Ejercicio 6
+    Este código consiste en la validación de varias variables que serán definidas por el usuario.
+*/
 import java.util.Scanner;
 
 public class ejercicio_7 {
