@@ -1,6 +1,6 @@
 /*  Lopez Galicia Luis Angel
     Ejercicio 3
-    El código siguiente consiste en el ingreso de una palabra por teclado y el programa contará la cantidad de letras existentes en ella.
+    El código siguiente consiste en el ingreso de fecha de nacimiento y el calcula de la edad en años de la persona.
 */
 
 import java.time.LocalDate;
