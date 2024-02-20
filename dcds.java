@@ -1,7 +1,7 @@
 // package ejercicio_7;
 /*  Lopez Galicia Luis Angel
     Ejercicio 6
-    Este código donde se encuentran todas las funciones que validad las variables de los ejercicios 6 y 7
+    En este código se encuentran todas las funciones que validan las variables de los ejercicios 6 y 7
 */
 
 import java.util.Scanner;
