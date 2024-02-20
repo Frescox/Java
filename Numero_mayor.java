@@ -1,3 +1,8 @@
+/*  Lopez Galicia Luis Angel
+    Ejercicio 3
+    El código siguiente consiste en el ingreso de 3 valores enteros por teclado y el programa comparará todos los valores hasta definir al mayor.
+*/
+
 import java.util.Scanner;
 
 public class Numero_mayor {
