@@ -1,3 +1,8 @@
+/*  Lopez Galicia Luis Angel
+    Ejercicio 5
+    El código siguiente consiste en el ingreso de datos personales y por consecuente, generar un RFC nuevo.
+*/
+
 import java.util.Scanner;
 
 public class Generar_RFC {
