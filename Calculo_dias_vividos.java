@@ -1,3 +1,8 @@
+/*  Lopez Galicia Luis Angel
+    Ejercicio 4
+    El código siguiente consiste en el ingreso de fecha de nacimiento y el calculo de los dias vividos de la persona.
+*/
+
 import java.time.Period;
 import java.time.LocalDateTime;
 import java.time.LocalDate;
