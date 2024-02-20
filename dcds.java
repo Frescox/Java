@@ -1,6 +1,6 @@
 // package ejercicio_7;
 /*  Lopez Galicia Luis Angel
-    Ejercicio 6
+    Partes de los ejercicios 6 y 7
     En este código se encuentran todas las funciones que validan las variables de los ejercicios 6 y 7
 */
 
